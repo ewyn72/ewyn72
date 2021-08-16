@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on 3D model viewer web app (To be linked)
 - 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on [OSU! Lazer](https://github.com/ppy/osu)
+- 👯 I’m looking to collaborate on [osu! Lazer](https://github.com/ppy/osu)
 - 🤔 I’m looking for help with Open Source Development and Contribution
 - 📫 How to reach me: **ekyng72@gmail.com**
 - ⚡ Fun fact: I enjoy everything motorsport as well as dabble in volleyball and badminton
