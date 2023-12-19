@@ -1,13 +1,11 @@
 # My name is Ethan, welcome to my GitHub!
 
-<h2>I'm a Software Engineering Graduate who enjoys solving problems and loves competitive sports!</h2>
+<h2>Software Developer</h2>
 
-- 🔭 I’m currently working on 3D model viewer web app (To be linked)
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on [osu! Lazer](https://github.com/ppy/osu)
-- 🤔 I’m looking for help with Open Source Development and Contribution
-- 📫 How to reach me: **ekyng72@gmail.com**
-- ⚡ Fun fact: I enjoy everything motorsport as well as dabble in volleyball and badminton
+- Currently learning C#
+- Looking to collaborate on [osu! Lazer](https://github.com/ppy/osu)
+- How to reach me: **ekyng72@gmail.com**
+- Fun fact: I enjoy everything motorsport as well as dabble in volleyball and badminton
 
 ## Languages
 
